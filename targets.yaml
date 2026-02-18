@@ -1,0 +1,9 @@
+## Enter here products/vendors you want to monitor. The bot will search for vulnerabilities related to these products/vendors and send notifications accordingly.
+queries:
+  - "exchange"
+  - "fortios"
+  - "forticlient"
+  - "vcenter"
+  - "globalprotect"
+  - "mikrotik"
+  - "citrix"
